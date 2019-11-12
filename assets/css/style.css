@@ -1,11 +1,15 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i|Exo:100,200,300,400,500,600,700');
 
+.bg-color-name-title{
+    background-color: #676767;
+}
+
 header {
     margin: 0;
 }
 
 .logo {
-    background: url("images/rosie.jpg");
+    background: url("../images/rosie.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
